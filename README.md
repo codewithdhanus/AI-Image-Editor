@@ -1,4 +1,7 @@
 # Full Stack AI Image Editor with Next JS, Fabric.js, Tailwind, ImageKit, Shadcn UI Tutorial 🔥🔥
+<h2>📸 Screenshot</h2>
+<img src="https://github.com/user-attachments/assets/09e42749-8a42-4b39-b451-537a3a231edd" width="800" />
+
 
 
 
